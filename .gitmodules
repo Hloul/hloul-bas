@@ -1,0 +1,4 @@
+[submodule "Hloul/Lebanon_Accounting"]
+	path = Hloul/Lebanon_Accounting
+	url = git@github.com:Hloul/Lebanon_Accounting.git
+	branch = master
